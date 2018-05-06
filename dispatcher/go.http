@@ -1,0 +1,27 @@
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+###

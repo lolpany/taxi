@@ -1,0 +1,1 @@
+{"timestamp":"2018-05-05T14:51:22.139+0000","status":500,"error":"Internal Server Error","message":"org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.IllegalStateException: Invalid configuration: 'exchange' must be non-null.","path":"/message"}

@@ -1,0 +1,748 @@
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+<> 2018-05-05T101233.500.json
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+<> 2018-05-05T101215.500.json
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+<> 2018-05-05T101212.500.json
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+<> 2018-05-05T101211.500.json
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+<> 2018-05-05T101210.500.json
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+<> 2018-05-05T101209.500.json
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="3"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="2"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="1"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="1"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+<> 2018-05-05T093528.500.json
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="1"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="1"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="1"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="1"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+<> 2018-05-05T055122.500.json
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="1"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="1"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+        <message>
+        <target id="1"/>
+        <sometags>
+        <data> </data>
+        <data> </data>
+        <data> </data>
+        </sometags>
+        </message>
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<message></message>
+
+<> 2018-05-05T052805.500.json
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<message></message>
+
+<> 2018-05-05T052622.500.json
+
+###
+
+POST http://localhost:8080/message
+Content-Type: application/xml
+
+<message></message>
+
+<> 2018-05-05T052247.415.json
+
+###
+
